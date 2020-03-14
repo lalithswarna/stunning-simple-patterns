@@ -1,0 +1,11 @@
+D:\Practice\Github\stunning-simple-patterns\testconsolesample1\bin\Debug\netcoreapp2.2\testconsolesample1.deps.json
+D:\Practice\Github\stunning-simple-patterns\testconsolesample1\bin\Debug\netcoreapp2.2\testconsolesample1.runtimeconfig.json
+D:\Practice\Github\stunning-simple-patterns\testconsolesample1\bin\Debug\netcoreapp2.2\testconsolesample1.runtimeconfig.dev.json
+D:\Practice\Github\stunning-simple-patterns\testconsolesample1\bin\Debug\netcoreapp2.2\testconsolesample1.dll
+D:\Practice\Github\stunning-simple-patterns\testconsolesample1\bin\Debug\netcoreapp2.2\testconsolesample1.pdb
+D:\Practice\Github\stunning-simple-patterns\testconsolesample1\obj\Debug\netcoreapp2.2\testconsolesample1.csprojAssemblyReference.cache
+D:\Practice\Github\stunning-simple-patterns\testconsolesample1\obj\Debug\netcoreapp2.2\testconsolesample1.csproj.CoreCompileInputs.cache
+D:\Practice\Github\stunning-simple-patterns\testconsolesample1\obj\Debug\netcoreapp2.2\testconsolesample1.AssemblyInfoInputs.cache
+D:\Practice\Github\stunning-simple-patterns\testconsolesample1\obj\Debug\netcoreapp2.2\testconsolesample1.AssemblyInfo.cs
+D:\Practice\Github\stunning-simple-patterns\testconsolesample1\obj\Debug\netcoreapp2.2\testconsolesample1.dll
+D:\Practice\Github\stunning-simple-patterns\testconsolesample1\obj\Debug\netcoreapp2.2\testconsolesample1.pdb
