@@ -17,6 +17,12 @@ namespace Pattern1Singleton
             var testObj2 = new nonSingleton();
             Console.WriteLine(testObj1.GetHashCode());
             Console.WriteLine(testObj2.GetHashCode());
+
+            DeviceDriver devObj1 = DeviceDriver.Instance;
+            Console.WriteLine(devObj1.GetHashCode());
+
+            DeviceDriver devObj2 = DeviceDriver.Instance;
+            Console.WriteLine(devObj2.GetHashCode());
         }
     }
 
