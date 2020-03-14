@@ -1,0 +1,11 @@
+D:\Practice\Github\stunning-simple-patterns\Pattern1Singleton\bin\Debug\netcoreapp2.2\Pattern1Singleton.deps.json
+D:\Practice\Github\stunning-simple-patterns\Pattern1Singleton\bin\Debug\netcoreapp2.2\Pattern1Singleton.runtimeconfig.json
+D:\Practice\Github\stunning-simple-patterns\Pattern1Singleton\bin\Debug\netcoreapp2.2\Pattern1Singleton.runtimeconfig.dev.json
+D:\Practice\Github\stunning-simple-patterns\Pattern1Singleton\bin\Debug\netcoreapp2.2\Pattern1Singleton.dll
+D:\Practice\Github\stunning-simple-patterns\Pattern1Singleton\bin\Debug\netcoreapp2.2\Pattern1Singleton.pdb
+D:\Practice\Github\stunning-simple-patterns\Pattern1Singleton\obj\Debug\netcoreapp2.2\Pattern1Singleton.csprojAssemblyReference.cache
+D:\Practice\Github\stunning-simple-patterns\Pattern1Singleton\obj\Debug\netcoreapp2.2\Pattern1Singleton.csproj.CoreCompileInputs.cache
+D:\Practice\Github\stunning-simple-patterns\Pattern1Singleton\obj\Debug\netcoreapp2.2\Pattern1Singleton.AssemblyInfoInputs.cache
+D:\Practice\Github\stunning-simple-patterns\Pattern1Singleton\obj\Debug\netcoreapp2.2\Pattern1Singleton.AssemblyInfo.cs
+D:\Practice\Github\stunning-simple-patterns\Pattern1Singleton\obj\Debug\netcoreapp2.2\Pattern1Singleton.dll
+D:\Practice\Github\stunning-simple-patterns\Pattern1Singleton\obj\Debug\netcoreapp2.2\Pattern1Singleton.pdb
