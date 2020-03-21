@@ -1,0 +1,11 @@
+D:\Practice\Github\stunning-simple-patterns\Pattern2Factory\bin\Debug\netcoreapp2.2\Pattern2Factory.deps.json
+D:\Practice\Github\stunning-simple-patterns\Pattern2Factory\bin\Debug\netcoreapp2.2\Pattern2Factory.runtimeconfig.json
+D:\Practice\Github\stunning-simple-patterns\Pattern2Factory\bin\Debug\netcoreapp2.2\Pattern2Factory.runtimeconfig.dev.json
+D:\Practice\Github\stunning-simple-patterns\Pattern2Factory\bin\Debug\netcoreapp2.2\Pattern2Factory.dll
+D:\Practice\Github\stunning-simple-patterns\Pattern2Factory\bin\Debug\netcoreapp2.2\Pattern2Factory.pdb
+D:\Practice\Github\stunning-simple-patterns\Pattern2Factory\obj\Debug\netcoreapp2.2\Pattern2Factory.csprojAssemblyReference.cache
+D:\Practice\Github\stunning-simple-patterns\Pattern2Factory\obj\Debug\netcoreapp2.2\Pattern2Factory.csproj.CoreCompileInputs.cache
+D:\Practice\Github\stunning-simple-patterns\Pattern2Factory\obj\Debug\netcoreapp2.2\Pattern2Factory.AssemblyInfoInputs.cache
+D:\Practice\Github\stunning-simple-patterns\Pattern2Factory\obj\Debug\netcoreapp2.2\Pattern2Factory.AssemblyInfo.cs
+D:\Practice\Github\stunning-simple-patterns\Pattern2Factory\obj\Debug\netcoreapp2.2\Pattern2Factory.dll
+D:\Practice\Github\stunning-simple-patterns\Pattern2Factory\obj\Debug\netcoreapp2.2\Pattern2Factory.pdb
