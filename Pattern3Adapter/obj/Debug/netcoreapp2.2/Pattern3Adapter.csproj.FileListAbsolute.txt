@@ -1,0 +1,11 @@
+D:\Practice\Github\stunning-simple-patterns\Pattern3Adapter\bin\Debug\netcoreapp2.2\Pattern3Adapter.deps.json
+D:\Practice\Github\stunning-simple-patterns\Pattern3Adapter\bin\Debug\netcoreapp2.2\Pattern3Adapter.runtimeconfig.json
+D:\Practice\Github\stunning-simple-patterns\Pattern3Adapter\bin\Debug\netcoreapp2.2\Pattern3Adapter.runtimeconfig.dev.json
+D:\Practice\Github\stunning-simple-patterns\Pattern3Adapter\bin\Debug\netcoreapp2.2\Pattern3Adapter.dll
+D:\Practice\Github\stunning-simple-patterns\Pattern3Adapter\bin\Debug\netcoreapp2.2\Pattern3Adapter.pdb
+D:\Practice\Github\stunning-simple-patterns\Pattern3Adapter\obj\Debug\netcoreapp2.2\Pattern3Adapter.csprojAssemblyReference.cache
+D:\Practice\Github\stunning-simple-patterns\Pattern3Adapter\obj\Debug\netcoreapp2.2\Pattern3Adapter.csproj.CoreCompileInputs.cache
+D:\Practice\Github\stunning-simple-patterns\Pattern3Adapter\obj\Debug\netcoreapp2.2\Pattern3Adapter.AssemblyInfoInputs.cache
+D:\Practice\Github\stunning-simple-patterns\Pattern3Adapter\obj\Debug\netcoreapp2.2\Pattern3Adapter.AssemblyInfo.cs
+D:\Practice\Github\stunning-simple-patterns\Pattern3Adapter\obj\Debug\netcoreapp2.2\Pattern3Adapter.dll
+D:\Practice\Github\stunning-simple-patterns\Pattern3Adapter\obj\Debug\netcoreapp2.2\Pattern3Adapter.pdb
