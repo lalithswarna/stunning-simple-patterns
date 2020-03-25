@@ -1,0 +1,11 @@
+D:\Practice\Github\stunning-simple-patterns\Pattern4Repository\bin\Debug\netcoreapp2.2\Pattern4Repository.deps.json
+D:\Practice\Github\stunning-simple-patterns\Pattern4Repository\bin\Debug\netcoreapp2.2\Pattern4Repository.runtimeconfig.json
+D:\Practice\Github\stunning-simple-patterns\Pattern4Repository\bin\Debug\netcoreapp2.2\Pattern4Repository.runtimeconfig.dev.json
+D:\Practice\Github\stunning-simple-patterns\Pattern4Repository\bin\Debug\netcoreapp2.2\Pattern4Repository.dll
+D:\Practice\Github\stunning-simple-patterns\Pattern4Repository\bin\Debug\netcoreapp2.2\Pattern4Repository.pdb
+D:\Practice\Github\stunning-simple-patterns\Pattern4Repository\obj\Debug\netcoreapp2.2\Pattern4Repository.csprojAssemblyReference.cache
+D:\Practice\Github\stunning-simple-patterns\Pattern4Repository\obj\Debug\netcoreapp2.2\Pattern4Repository.csproj.CoreCompileInputs.cache
+D:\Practice\Github\stunning-simple-patterns\Pattern4Repository\obj\Debug\netcoreapp2.2\Pattern4Repository.AssemblyInfoInputs.cache
+D:\Practice\Github\stunning-simple-patterns\Pattern4Repository\obj\Debug\netcoreapp2.2\Pattern4Repository.AssemblyInfo.cs
+D:\Practice\Github\stunning-simple-patterns\Pattern4Repository\obj\Debug\netcoreapp2.2\Pattern4Repository.dll
+D:\Practice\Github\stunning-simple-patterns\Pattern4Repository\obj\Debug\netcoreapp2.2\Pattern4Repository.pdb
