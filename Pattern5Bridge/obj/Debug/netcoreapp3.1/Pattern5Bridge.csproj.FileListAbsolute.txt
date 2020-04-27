@@ -1,0 +1,13 @@
+D:\Practice\Github\stunning-simple-patterns\Pattern5Bridge\bin\Debug\netcoreapp3.1\Pattern5Bridge.exe
+D:\Practice\Github\stunning-simple-patterns\Pattern5Bridge\bin\Debug\netcoreapp3.1\Pattern5Bridge.deps.json
+D:\Practice\Github\stunning-simple-patterns\Pattern5Bridge\bin\Debug\netcoreapp3.1\Pattern5Bridge.runtimeconfig.json
+D:\Practice\Github\stunning-simple-patterns\Pattern5Bridge\bin\Debug\netcoreapp3.1\Pattern5Bridge.runtimeconfig.dev.json
+D:\Practice\Github\stunning-simple-patterns\Pattern5Bridge\bin\Debug\netcoreapp3.1\Pattern5Bridge.dll
+D:\Practice\Github\stunning-simple-patterns\Pattern5Bridge\bin\Debug\netcoreapp3.1\Pattern5Bridge.pdb
+D:\Practice\Github\stunning-simple-patterns\Pattern5Bridge\obj\Debug\netcoreapp3.1\Pattern5Bridge.csprojAssemblyReference.cache
+D:\Practice\Github\stunning-simple-patterns\Pattern5Bridge\obj\Debug\netcoreapp3.1\Pattern5Bridge.csproj.CoreCompileInputs.cache
+D:\Practice\Github\stunning-simple-patterns\Pattern5Bridge\obj\Debug\netcoreapp3.1\Pattern5Bridge.AssemblyInfoInputs.cache
+D:\Practice\Github\stunning-simple-patterns\Pattern5Bridge\obj\Debug\netcoreapp3.1\Pattern5Bridge.AssemblyInfo.cs
+D:\Practice\Github\stunning-simple-patterns\Pattern5Bridge\obj\Debug\netcoreapp3.1\Pattern5Bridge.dll
+D:\Practice\Github\stunning-simple-patterns\Pattern5Bridge\obj\Debug\netcoreapp3.1\Pattern5Bridge.pdb
+D:\Practice\Github\stunning-simple-patterns\Pattern5Bridge\obj\Debug\netcoreapp3.1\Pattern5Bridge.genruntimeconfig.cache
